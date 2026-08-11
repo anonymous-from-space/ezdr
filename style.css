@@ -128,7 +128,7 @@ a.design-card { display: block; }
 .piece-description p {
   color: #5d5954;
   font-size: 0.95rem;
-  line-height: 1.6;
+  line-height: 1.3;
   word-break: break-all; /* <-- Fixed syntax */
 }
 
