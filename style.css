@@ -22,7 +22,7 @@ img { max-width: 100%; }
 /* --- Header & Navigation --- */
 .site-header { min-height: 92px; display: flex; align-items: center; justify-content: space-between; position: relative; z-index: 2; }
 .brand-lockup { display: flex; align-items: center; gap: 10px; font-size: 1.25rem; font-weight: 700; letter-spacing: -.07em; }
-.brand-mark { width: 32px; height: 13px; object-fit: contain; }
+.brand-mark { width: 50px; height: 30px; object-fit: contain; }
 .main-nav { display: flex; align-items: center; gap: 32px; font-size: .75rem; text-transform: uppercase; letter-spacing: .1em; }
 .main-nav a { transition: color .18s ease, transform .18s ease; }
 .main-nav a:hover { color: var(--red); transform: translateY(-2px); }
